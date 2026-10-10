@@ -1,7 +1,6 @@
-# RideAtlas — Documentos legais
+# rideatlas-legal
 
-Política de privacidade e termos de utilização da aplicação RideAtlas, publicados por GitHub Pages.
-
-A fonte destes ficheiros vive no repositório da app, em `docs/legal/`. Este repositório existe apenas para os tornar públicos sem expor o código.
-
-**Ao alterar:** actualizar primeiro em `docs/legal/` no repositório da app, depois copiar para aqui — senão os dois divergem.
+A RideAtlas passou a chamar-se **TWIRVALL**. Estas páginas redireccionam para
+`https://twirvall.com/` (o `convite.html` passa os `?g=` e `?n=` do QR do
+MotoPass para a frente), para as versões antigas da app e os QR impressos
+continuarem a abrir. O site actual está no repositório `twirvall-legal`.
